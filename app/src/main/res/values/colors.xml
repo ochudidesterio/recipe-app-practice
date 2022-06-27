@@ -1,0 +1,21 @@
+<!--?xml version="1.0" encoding="UTF-8"?-->
+<resources>
+  <color name="primaryColor">#eddb53</color>
+  <color name="primaryLightColor">#ffff85</color>
+  <color name="primaryDarkColor">#b8aa1c</color>
+  <color name="secondaryColor">#a38039</color>
+  <color name="secondaryLightColor">#d7af66</color>
+  <color name="secondaryDarkColor">#71540a</color>
+  <color name="primaryTextColor">#000000</color>
+  <color name="secondaryTextColor">#000000</color>
+  <color name="white">#ffffff</color>
+  <color name="gray">#f1f1f1</color>
+  <color name="textColorHint">#363535</color>
+  <color name="black">#000000</color>
+  <color name="darkGray">#3A3939</color>
+  <color name="pink">#F6DEDE</color>
+  <color name="transparent">#00000000</color>
+  <color name="youtube">#C64141</color>
+
+
+</resources>
